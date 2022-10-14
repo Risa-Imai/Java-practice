@@ -1,9 +1,15 @@
 class ScoreArray{
   public static void main(String[] args){
-    //”z—ñ‚Ì¶¬
+    int[] data = new int[4];
     
-    //”z—ñ‚É’l‚ğ‘ã“ü
+    data[0] = 90;
+    data[1] = 80;
+    data[2] = 100;
+    data[3] = 90;
     
-    //’l‚ğ•\¦
+    System.out.println("ï¼‘äººç›®ã¯" + data[0] + "ç‚¹");
+    System.out.println("ï¼’äººç›®ã¯" + data[1] + "ç‚¹");
+    System.out.println("ï¼“äººç›®ã¯" + data[2] + "ç‚¹");
+    System.out.println("ï¼”äººç›®ã¯" + data[3] + "ç‚¹");
   }
 }

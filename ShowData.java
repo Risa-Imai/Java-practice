@@ -1,8 +1,15 @@
 class ShowData{
   public static void main(String[] args){
-    //•Ï”‚ÌéŒ¾‚Æ’l‚Ì‘ã“ü
-    
-    //’l‚Ì•\¦
+    int num = 10;
+    double pi = 3.14;
+    char blood = 'A';
+    boolean fun = true;
+    String msg = "ä¸€ç·’ã«ãŒã‚“ã°ã‚Šã¾ã—ã‚‡ã†ï¼";
 
+    System.out.println(num);
+    System.out.println(pi);
+    System.out.println(blood);
+    System.out.println(fun);
+    System.out.println(msg);
   }
 }
